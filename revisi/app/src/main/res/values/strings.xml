@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Resto2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="gafi_resto">gafi resto\n</string>
+    <string name="welcome_to_resto">welcome to resto</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="password1">password1</string>
+    <string name="nama">nama</string>
+    <string name="NAMA">NAMA</string>
+    <string name="EMAIL">EMAIL</string>
+    <string name="PASSWORD">PASSWORD</string>
+    <string name="register1">Register</string>
+    <string name="login1">Login</string>
+    <string name="gafi_resto1">GAFI RESTO</string>
+    <string name="welcome_to_resto1">WELCOME TO RESTO</string>
+    <string name="register2">Register</string>
+    <string name="daily_meal">Daily Meal</string>
+    <string name="favourite">Favourite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_cart">My Cart</string>
+    <string name="gafi">GAFI</string>
+    <string name="_10_00_23_00">10:00 - 23:00</string>
+    <string name="_5_0">5.0</string>
+    <string name="product_name">Product Name</string>
+</resources>
