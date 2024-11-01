@@ -33,4 +33,9 @@
     <string name="_10_00_23_00">10:00 - 23:00</string>
     <string name="_5_0">5.0</string>
     <string name="product_name">Product Name</string>
+    <string name="username">USERNAME</string>
+    <string name="your_favourite_and_testy_food_is_here">your favourite and testy food is here!</string>
+    <string name="view_more">view more</string>
+    <string name="make_order">Make Order</string>
+    <string name="my_cart1">My Cart</string>
 </resources>
