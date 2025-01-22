@@ -3,6 +3,7 @@ val DependencyHandlerScope.implementation: Unit
 
 plugins {
     alias(libs.plugins.android.application)
+    alias(libs.plugins.kotlin.android)
 }
 
 android {
@@ -35,10 +36,14 @@ android {
     buildFeatures {
         viewBinding = true
     }
+    kotlinOptions {
+        var jvmTarget = "21"
+    }
 }
 
 dependencies {
 
+    classpath 'com.android.tools.build:gradle:8.5.2'
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.constraintlayout)
@@ -48,6 +53,7 @@ dependencies {
     implementation(libs.navigation.ui)
     implementation(libs.activity)
     implementation(libs.cardview)
+    implementation(libs.core.ktx)
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
